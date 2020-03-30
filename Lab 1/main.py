@@ -10,8 +10,8 @@ def count_sms(k, N):
 
 
 TEL = 915783624
-K_IN = 2
-K_OUT = 0
+K_IN = 0
+K_OUT = 2
 K_SMS = 1
 
 df = pd.read_csv('data.csv')
